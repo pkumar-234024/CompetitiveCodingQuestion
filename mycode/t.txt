@@ -1,0 +1,123 @@
+//password verification
+3
+#cookOff#P1
+U@code4CHEFINA
+gR3@tPWD
+
+// find missing a number in array
+4
+10
+1 2 3 4 5 6 7 8 10
+5
+1 2 3 5
+2
+1
+2
+2
+
+// tree test
+9
+10
+12
+5
+4
+20
+8
+7
+15
+13
+
+// identical matrix
+4
+4 4
+2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5
+2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5
+4 4
+2 2 2 2 3 3 3 3 4 4 4 4 5 5 4 5
+2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5
+3 3
+9 9 9 8 8 8 7 7 7
+9 9 9 8 8 8 7 7 7
+2 2
+5 6
+5 6
+//A. K-divisible Sum
+4
+1 5
+4 3
+8 8
+8 17
+
+//spiral
+2
+4 4
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+6 3
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+//unique words
+2
+I love to swim and I like to travel abroad
+my name is khan and I want to be software Developer my name is khan and I want software Developer
+
+//encryption Decryption
+3
+39651
+396541
+39631
+
+//
+6
+1
+2
+3
+4
+5
+6
+7
+//
+// maximize function
+8
+3
+2 7 5
+3
+3 3 3
+5
+2 2 2 2 5
+6
+9 8 7 12 89 78
+5
+5 4 3 7 8
+4
+3 6 9 10
+5
+9 11 13 15 7
+4
+4 15 11 3
+// Valid anagram3
+anagram
+nagaram
+rat
+car
+mat
+mat
+//
+2
+3 3
+1 2 3
+4 5 1
+3 3
+1 2 3
+4 5 6
+//
+4
+3
+3 2 2
+2
+5 5
+4
+1 3 3 7
+5
+9 8 9 7 5
+// count one the adding or subtracting the  one containing number2
+24
+102
